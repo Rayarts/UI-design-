@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T18:17:08.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="c2yugSeEgKD8zqpDS75z" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-06T18:21:29.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="xBQKOveqNB9cYB9l96U-" version="18.0.2" type="github" pages="5">
   <diagram id="sfv5LwrBbCXXRUsaKTnZ" name="Page-1">
     <mxGraphModel dx="1896" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,6 +241,35 @@
         </mxCell>
         <mxCell id="KonGhgpSiErp2SJgUTWG-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="581.5" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KF8YmHRaSrJ4duMVbSbe" name="Page-5">
+    <mxGraphModel dx="2585" dy="1429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-1" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="820" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="780" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-3" value="coupon meter&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-6" value="at 100% with the coupon meter you get a 75% off deal&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="JFZjV01iZcpkpNBsKAzm-7" value="you are at 70%&lt;br&gt;in the meter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="200" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
