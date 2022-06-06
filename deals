@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T18:09:07.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="pGcMkGqC4qIxM5mP5Eon" version="18.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-06T18:17:08.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="c2yugSeEgKD8zqpDS75z" version="18.0.2" type="github" pages="4">
   <diagram id="sfv5LwrBbCXXRUsaKTnZ" name="Page-1">
     <mxGraphModel dx="1896" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,6 +173,74 @@
         </mxCell>
         <mxCell id="nz7_WHBfhrTo6WI6tmYS-17" value="subscriptions&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="820" width="380" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LDcLNpr0vrCdWHrqYrOI" name="Page-4">
+    <mxGraphModel dx="2370" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KonGhgpSiErp2SJgUTWG-1" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=17;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="830" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="780" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-3" value="name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="70" width="24" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="770" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="730" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-10" value="last coupon used&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-11" value="coupon meter percentage&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-12" value="invite a friend to a free coupon" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-13" value="visit stores followed&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="700" width="390" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="479" y="707.5" width="325" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-20" value="if you love gamestop you&#39;ll love these deals&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="720" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-22" value="forget dominos when you have two bros pizza" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="510" y="720" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KonGhgpSiErp2SJgUTWG-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
